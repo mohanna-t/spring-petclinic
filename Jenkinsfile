@@ -21,6 +21,7 @@ pipeline {
 	  steps {
 	   bat "set JAVA_HOME=C:\\Program Files\\Java\\jdk-17.0.1 "
 	   bat "D:\\Mohanna\\Installer\\Maven\\apache-maven-3.8.4\\bin\\mvn test"
+	   junit '**/target/surefire-reports/TEST-*.xml'
 	  }
 	 }
 	 
