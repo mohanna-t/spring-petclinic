@@ -1,3 +1,5 @@
+## This is my fork of [Spring PetClinic Sample Application](https://github.com/spring-projects/spring-petclinic) and I'm working adding Jenkins pipeline to this project.
+
 # Spring PetClinic Sample Application [![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml)
 
 ## Understanding the Spring Petclinic application with a few diagrams
